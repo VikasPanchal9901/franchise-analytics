@@ -1,0 +1,351 @@
+Review_ID,Outlet_Code,Review_Text,Rating,Source,Date
+REV-1000,BLR-001,Amazing cold brew and fantastic ambiance in Indiranagar! The staff is very polite and fast.,5,Swiggy Dineout,2026-07-31
+REV-1001,CHN-001,"Prompt service, clean counter, hygienic preparation observed.",5,Customer App,2026-08-17
+REV-1002,HYD-001,"Bandra branch has great music and vibe, but seating is crowded during peak Sunday evenings.",4,Swiggy Dineout,2026-08-06
+REV-1003,DEL-001,Best truffle panini in Connaught Place. Fast service and clean tables.,5,Google Reviews,2026-07-24
+REV-1004,DEL-002,Sanitation in the washroom was sub-par today. Coffee was good though.,3,Swiggy Dineout,2026-07-27
+REV-1005,BLR-001,Best truffle panini in Connaught Place. Fast service and clean tables.,5,Google Reviews,2026-08-08
+REV-1006,BLR-001,Best truffle panini in Connaught Place. Fast service and clean tables.,5,Google Reviews,2026-08-08
+REV-1007,MUM-001,"Bandra branch has great music and vibe, but seating is crowded during peak Sunday evenings.",4,Google Reviews,2026-07-28
+REV-1008,MUM-002,Super quick takeaway at Hitec City. Great UPI scan and go experience.,5,Zomato,2026-08-03
+REV-1009,HYD-001,Super quick takeaway at Hitec City. Great UPI scan and go experience.,5,Google Reviews,2026-07-27
+REV-1010,MUM-001,Extremely disappointed. Outlet 17 opened 45 minutes late and cold brew was completely out of stock!,1,Google Reviews,2026-08-06
+REV-1011,BLR-017,Extremely disappointed. Outlet 17 opened 45 minutes late and cold brew was completely out of stock!,1,Customer App,2026-08-05
+REV-1012,BLR-017,Extremely disappointed. Outlet 17 opened 45 minutes late and cold brew was completely out of stock!,1,Customer App,2026-07-31
+REV-1013,BLR-017,Best truffle panini in Connaught Place. Fast service and clean tables.,5,Swiggy Dineout,2026-08-20
+REV-1014,MUM-001,"Bandra branch has great music and vibe, but seating is crowded during peak Sunday evenings.",4,Swiggy Dineout,2026-08-11
+REV-1015,DEL-001,"Cashier applied manual discount without asking, but waiting time was almost 25 minutes. Needs more staff.",2,Swiggy Dineout,2026-08-29
+REV-1016,BLR-001,Sanitation in the washroom was sub-par today. Coffee was good though.,3,Google Reviews,2026-08-26
+REV-1017,MUM-001,"Bandra branch has great music and vibe, but seating is crowded during peak Sunday evenings.",4,Customer App,2026-08-31
+REV-1018,DEL-001,"Cashier applied manual discount without asking, but waiting time was almost 25 minutes. Needs more staff.",2,Swiggy Dineout,2026-09-01
+REV-1019,HYD-001,"Bandra branch has great music and vibe, but seating is crowded during peak Sunday evenings.",4,Customer App,2026-07-28
+REV-1020,HYD-001,Super quick takeaway at Hitec City. Great UPI scan and go experience.,5,Google Reviews,2026-08-15
+REV-1021,HYD-001,Super quick takeaway at Hitec City. Great UPI scan and go experience.,5,Swiggy Dineout,2026-08-13
+REV-1022,BLR-002,My favorite cafe in Bangalore. High quality coffee and perfect croissants.,5,Swiggy Dineout,2026-08-19
+REV-1023,DEL-002,Best truffle panini in Connaught Place. Fast service and clean tables.,5,Zomato,2026-08-16
+REV-1024,BLR-017,"Cashier applied manual discount without asking, but waiting time was almost 25 minutes. Needs more staff.",2,Customer App,2026-07-21
+REV-1025,BLR-017,They ran out of Barista milk and syrup on a Saturday afternoon! How can a coffee shop not have stock?,1,Customer App,2026-08-14
+REV-1026,BLR-017,Extremely disappointed. Outlet 17 opened 45 minutes late and cold brew was completely out of stock!,1,Google Reviews,2026-08-16
+REV-1027,CHN-001,"Prompt service, clean counter, hygienic preparation observed.",5,Customer App,2026-08-04
+REV-1028,MUM-001,Amazing cold brew and fantastic ambiance in Indiranagar! The staff is very polite and fast.,5,Swiggy Dineout,2026-07-24
+REV-1029,HYD-001,Sanitation in the washroom was sub-par today. Coffee was good though.,3,Swiggy Dineout,2026-08-10
+REV-1030,DEL-001,Amazing cold brew and fantastic ambiance in Indiranagar! The staff is very polite and fast.,5,Zomato,2026-07-28
+REV-1031,DEL-002,Sanitation in the washroom was sub-par today. Coffee was good though.,3,Google Reviews,2026-07-31
+REV-1032,MUM-002,"Bandra branch has great music and vibe, but seating is crowded during peak Sunday evenings.",4,Google Reviews,2026-08-08
+REV-1033,DEL-001,They ran out of Barista milk and syrup on a Saturday afternoon! How can a coffee shop not have stock?,1,Google Reviews,2026-08-31
+REV-1034,BLR-017,"Cashier applied manual discount without asking, but waiting time was almost 25 minutes. Needs more staff.",2,Swiggy Dineout,2026-08-27
+REV-1035,MUM-001,"Bandra branch has great music and vibe, but seating is crowded during peak Sunday evenings.",4,Google Reviews,2026-09-01
+REV-1036,BLR-017,Extremely disappointed. Outlet 17 opened 45 minutes late and cold brew was completely out of stock!,1,Zomato,2026-07-26
+REV-1037,MUM-001,"Bandra branch has great music and vibe, but seating is crowded during peak Sunday evenings.",4,Swiggy Dineout,2026-08-12
+REV-1038,HYD-001,Super quick takeaway at Hitec City. Great UPI scan and go experience.,5,Google Reviews,2026-07-27
+REV-1039,DEL-001,Best truffle panini in Connaught Place. Fast service and clean tables.,5,Swiggy Dineout,2026-08-29
+REV-1040,MUM-001,"Cashier applied manual discount without asking, but waiting time was almost 25 minutes. Needs more staff.",2,Zomato,2026-08-30
+REV-1041,BLR-017,"Cashier applied manual discount without asking, but waiting time was almost 25 minutes. Needs more staff.",2,Swiggy Dineout,2026-08-03
+REV-1042,BLR-001,My favorite cafe in Bangalore. High quality coffee and perfect croissants.,5,Zomato,2026-08-31
+REV-1043,CHN-001,"Prompt service, clean counter, hygienic preparation observed.",5,Google Reviews,2026-08-09
+REV-1044,BLR-001,Amazing cold brew and fantastic ambiance in Indiranagar! The staff is very polite and fast.,5,Google Reviews,2026-09-01
+REV-1045,HYD-001,Super quick takeaway at Hitec City. Great UPI scan and go experience.,5,Swiggy Dineout,2026-07-24
+REV-1046,MUM-001,Super quick takeaway at Hitec City. Great UPI scan and go experience.,5,Google Reviews,2026-08-16
+REV-1047,BLR-017,Extremely disappointed. Outlet 17 opened 45 minutes late and cold brew was completely out of stock!,1,Customer App,2026-08-03
+REV-1048,CHN-001,"Prompt service, clean counter, hygienic preparation observed.",5,Zomato,2026-08-14
+REV-1049,BLR-017,"Prompt service, clean counter, hygienic preparation observed.",5,Customer App,2026-08-02
+REV-1050,DEL-002,Super quick takeaway at Hitec City. Great UPI scan and go experience.,5,Google Reviews,2026-07-21
+REV-1051,DEL-001,Best truffle panini in Connaught Place. Fast service and clean tables.,5,Customer App,2026-08-20
+REV-1052,HYD-001,Amazing cold brew and fantastic ambiance in Indiranagar! The staff is very polite and fast.,5,Swiggy Dineout,2026-08-27
+REV-1053,CHN-001,"Prompt service, clean counter, hygienic preparation observed.",5,Zomato,2026-07-23
+REV-1054,BLR-017,"Cashier applied manual discount without asking, but waiting time was almost 25 minutes. Needs more staff.",2,Google Reviews,2026-07-31
+REV-1055,BLR-002,Amazing cold brew and fantastic ambiance in Indiranagar! The staff is very polite and fast.,5,Customer App,2026-08-22
+REV-1056,MUM-001,"Bandra branch has great music and vibe, but seating is crowded during peak Sunday evenings.",4,Google Reviews,2026-08-02
+REV-1057,DEL-001,"Cashier applied manual discount without asking, but waiting time was almost 25 minutes. Needs more staff.",2,Zomato,2026-08-27
+REV-1058,DEL-001,Best truffle panini in Connaught Place. Fast service and clean tables.,5,Customer App,2026-07-23
+REV-1059,MUM-001,"Bandra branch has great music and vibe, but seating is crowded during peak Sunday evenings.",4,Zomato,2026-08-06
+REV-1060,HYD-001,Sanitation in the washroom was sub-par today. Coffee was good though.,3,Swiggy Dineout,2026-08-29
+REV-1061,CHN-001,My favorite cafe in Bangalore. High quality coffee and perfect croissants.,5,Zomato,2026-08-04
+REV-1062,DEL-002,Sanitation in the washroom was sub-par today. Coffee was good though.,3,Google Reviews,2026-07-24
+REV-1063,CHN-001,"Bandra branch has great music and vibe, but seating is crowded during peak Sunday evenings.",4,Customer App,2026-07-31
+REV-1064,BLR-001,My favorite cafe in Bangalore. High quality coffee and perfect croissants.,5,Swiggy Dineout,2026-07-26
+REV-1065,MUM-001,"Bandra branch has great music and vibe, but seating is crowded during peak Sunday evenings.",4,Google Reviews,2026-07-26
+REV-1066,BLR-017,They ran out of Barista milk and syrup on a Saturday afternoon! How can a coffee shop not have stock?,1,Google Reviews,2026-07-26
+REV-1067,CHN-001,"Bandra branch has great music and vibe, but seating is crowded during peak Sunday evenings.",4,Zomato,2026-08-12
+REV-1068,MUM-001,"Bandra branch has great music and vibe, but seating is crowded during peak Sunday evenings.",4,Zomato,2026-09-01
+REV-1069,BLR-002,My favorite cafe in Bangalore. High quality coffee and perfect croissants.,5,Customer App,2026-08-03
+REV-1070,DEL-002,Sanitation in the washroom was sub-par today. Coffee was good though.,3,Google Reviews,2026-08-30
+REV-1071,MUM-001,Super quick takeaway at Hitec City. Great UPI scan and go experience.,5,Google Reviews,2026-08-18
+REV-1072,MUM-002,They ran out of Barista milk and syrup on a Saturday afternoon! How can a coffee shop not have stock?,1,Customer App,2026-08-19
+REV-1073,BLR-017,Extremely disappointed. Outlet 17 opened 45 minutes late and cold brew was completely out of stock!,1,Swiggy Dineout,2026-07-28
+REV-1074,MUM-002,My favorite cafe in Bangalore. High quality coffee and perfect croissants.,5,Google Reviews,2026-07-23
+REV-1075,HYD-001,Super quick takeaway at Hitec City. Great UPI scan and go experience.,5,Customer App,2026-08-04
+REV-1076,BLR-017,"Cashier applied manual discount without asking, but waiting time was almost 25 minutes. Needs more staff.",2,Google Reviews,2026-08-30
+REV-1077,BLR-017,They ran out of Barista milk and syrup on a Saturday afternoon! How can a coffee shop not have stock?,1,Zomato,2026-08-18
+REV-1078,BLR-001,Amazing cold brew and fantastic ambiance in Indiranagar! The staff is very polite and fast.,5,Google Reviews,2026-08-26
+REV-1079,MUM-002,My favorite cafe in Bangalore. High quality coffee and perfect croissants.,5,Swiggy Dineout,2026-08-12
+REV-1080,BLR-017,"Cashier applied manual discount without asking, but waiting time was almost 25 minutes. Needs more staff.",2,Customer App,2026-07-29
+REV-1081,CHN-001,"Prompt service, clean counter, hygienic preparation observed.",5,Customer App,2026-07-27
+REV-1082,CHN-001,"Prompt service, clean counter, hygienic preparation observed.",5,Customer App,2026-07-25
+REV-1083,MUM-001,"Bandra branch has great music and vibe, but seating is crowded during peak Sunday evenings.",4,Google Reviews,2026-09-02
+REV-1084,BLR-017,They ran out of Barista milk and syrup on a Saturday afternoon! How can a coffee shop not have stock?,1,Zomato,2026-08-16
+REV-1085,MUM-001,"Bandra branch has great music and vibe, but seating is crowded during peak Sunday evenings.",4,Zomato,2026-08-14
+REV-1086,DEL-002,Sanitation in the washroom was sub-par today. Coffee was good though.,3,Google Reviews,2026-08-12
+REV-1087,DEL-001,Best truffle panini in Connaught Place. Fast service and clean tables.,5,Google Reviews,2026-08-01
+REV-1088,BLR-017,They ran out of Barista milk and syrup on a Saturday afternoon! How can a coffee shop not have stock?,1,Swiggy Dineout,2026-07-22
+REV-1089,BLR-017,Extremely disappointed. Outlet 17 opened 45 minutes late and cold brew was completely out of stock!,1,Swiggy Dineout,2026-08-31
+REV-1090,DEL-002,Sanitation in the washroom was sub-par today. Coffee was good though.,3,Customer App,2026-08-13
+REV-1091,BLR-017,Extremely disappointed. Outlet 17 opened 45 minutes late and cold brew was completely out of stock!,1,Zomato,2026-07-20
+REV-1092,BLR-017,"Cashier applied manual discount without asking, but waiting time was almost 25 minutes. Needs more staff.",2,Customer App,2026-08-15
+REV-1093,BLR-002,My favorite cafe in Bangalore. High quality coffee and perfect croissants.,5,Google Reviews,2026-08-12
+REV-1094,BLR-017,Extremely disappointed. Outlet 17 opened 45 minutes late and cold brew was completely out of stock!,1,Google Reviews,2026-08-27
+REV-1095,CHN-001,Sanitation in the washroom was sub-par today. Coffee was good though.,3,Zomato,2026-08-15
+REV-1096,BLR-017,"Cashier applied manual discount without asking, but waiting time was almost 25 minutes. Needs more staff.",2,Swiggy Dineout,2026-08-13
+REV-1097,DEL-001,Best truffle panini in Connaught Place. Fast service and clean tables.,5,Customer App,2026-08-26
+REV-1098,HYD-001,They ran out of Barista milk and syrup on a Saturday afternoon! How can a coffee shop not have stock?,1,Zomato,2026-08-13
+REV-1099,CHN-001,They ran out of Barista milk and syrup on a Saturday afternoon! How can a coffee shop not have stock?,1,Zomato,2026-07-20
+REV-1100,BLR-001,Amazing cold brew and fantastic ambiance in Indiranagar! The staff is very polite and fast.,5,Customer App,2026-09-01
+REV-1101,CHN-001,"Prompt service, clean counter, hygienic preparation observed.",5,Zomato,2026-09-02
+REV-1102,BLR-002,My favorite cafe in Bangalore. High quality coffee and perfect croissants.,5,Zomato,2026-07-29
+REV-1103,BLR-017,"Prompt service, clean counter, hygienic preparation observed.",5,Zomato,2026-08-19
+REV-1104,BLR-001,Amazing cold brew and fantastic ambiance in Indiranagar! The staff is very polite and fast.,5,Zomato,2026-08-06
+REV-1105,BLR-001,My favorite cafe in Bangalore. High quality coffee and perfect croissants.,5,Google Reviews,2026-08-13
+REV-1106,BLR-017,Extremely disappointed. Outlet 17 opened 45 minutes late and cold brew was completely out of stock!,1,Customer App,2026-07-30
+REV-1107,BLR-017,Extremely disappointed. Outlet 17 opened 45 minutes late and cold brew was completely out of stock!,1,Customer App,2026-07-27
+REV-1108,BLR-017,They ran out of Barista milk and syrup on a Saturday afternoon! How can a coffee shop not have stock?,1,Google Reviews,2026-08-17
+REV-1109,DEL-002,"Prompt service, clean counter, hygienic preparation observed.",5,Customer App,2026-08-10
+REV-1110,CHN-001,Super quick takeaway at Hitec City. Great UPI scan and go experience.,5,Swiggy Dineout,2026-08-25
+REV-1111,HYD-001,Super quick takeaway at Hitec City. Great UPI scan and go experience.,5,Customer App,2026-08-28
+REV-1112,CHN-001,"Prompt service, clean counter, hygienic preparation observed.",5,Zomato,2026-07-26
+REV-1113,HYD-001,Super quick takeaway at Hitec City. Great UPI scan and go experience.,5,Customer App,2026-08-10
+REV-1114,DEL-002,Sanitation in the washroom was sub-par today. Coffee was good though.,3,Google Reviews,2026-08-24
+REV-1115,CHN-001,"Prompt service, clean counter, hygienic preparation observed.",5,Google Reviews,2026-08-16
+REV-1116,BLR-002,My favorite cafe in Bangalore. High quality coffee and perfect croissants.,5,Swiggy Dineout,2026-08-15
+REV-1117,BLR-017,"Bandra branch has great music and vibe, but seating is crowded during peak Sunday evenings.",4,Zomato,2026-07-26
+REV-1118,HYD-001,Extremely disappointed. Outlet 17 opened 45 minutes late and cold brew was completely out of stock!,1,Swiggy Dineout,2026-08-11
+REV-1119,BLR-002,Super quick takeaway at Hitec City. Great UPI scan and go experience.,5,Customer App,2026-07-26
+REV-1120,MUM-002,Sanitation in the washroom was sub-par today. Coffee was good though.,3,Zomato,2026-08-20
+REV-1121,BLR-017,They ran out of Barista milk and syrup on a Saturday afternoon! How can a coffee shop not have stock?,1,Zomato,2026-08-22
+REV-1122,CHN-001,"Prompt service, clean counter, hygienic preparation observed.",5,Zomato,2026-09-02
+REV-1123,BLR-017,Amazing cold brew and fantastic ambiance in Indiranagar! The staff is very polite and fast.,5,Google Reviews,2026-08-20
+REV-1124,DEL-002,My favorite cafe in Bangalore. High quality coffee and perfect croissants.,5,Swiggy Dineout,2026-08-01
+REV-1125,BLR-017,Extremely disappointed. Outlet 17 opened 45 minutes late and cold brew was completely out of stock!,1,Zomato,2026-08-15
+REV-1126,BLR-002,My favorite cafe in Bangalore. High quality coffee and perfect croissants.,5,Swiggy Dineout,2026-08-06
+REV-1127,BLR-001,"Prompt service, clean counter, hygienic preparation observed.",5,Google Reviews,2026-08-08
+REV-1128,CHN-001,"Prompt service, clean counter, hygienic preparation observed.",5,Zomato,2026-08-27
+REV-1129,DEL-001,Best truffle panini in Connaught Place. Fast service and clean tables.,5,Swiggy Dineout,2026-08-21
+REV-1130,DEL-001,"Bandra branch has great music and vibe, but seating is crowded during peak Sunday evenings.",4,Zomato,2026-09-01
+REV-1131,CHN-001,"Prompt service, clean counter, hygienic preparation observed.",5,Google Reviews,2026-07-29
+REV-1132,MUM-002,Super quick takeaway at Hitec City. Great UPI scan and go experience.,5,Zomato,2026-08-27
+REV-1133,BLR-002,Extremely disappointed. Outlet 17 opened 45 minutes late and cold brew was completely out of stock!,1,Swiggy Dineout,2026-07-26
+REV-1134,HYD-001,Super quick takeaway at Hitec City. Great UPI scan and go experience.,5,Zomato,2026-08-09
+REV-1135,BLR-017,They ran out of Barista milk and syrup on a Saturday afternoon! How can a coffee shop not have stock?,1,Swiggy Dineout,2026-08-20
+REV-1136,BLR-002,Sanitation in the washroom was sub-par today. Coffee was good though.,3,Google Reviews,2026-09-03
+REV-1137,BLR-017,Extremely disappointed. Outlet 17 opened 45 minutes late and cold brew was completely out of stock!,1,Google Reviews,2026-07-27
+REV-1138,BLR-017,They ran out of Barista milk and syrup on a Saturday afternoon! How can a coffee shop not have stock?,1,Swiggy Dineout,2026-08-11
+REV-1139,BLR-017,"Cashier applied manual discount without asking, but waiting time was almost 25 minutes. Needs more staff.",2,Swiggy Dineout,2026-08-09
+REV-1140,MUM-001,"Bandra branch has great music and vibe, but seating is crowded during peak Sunday evenings.",4,Zomato,2026-07-23
+REV-1141,CHN-001,"Prompt service, clean counter, hygienic preparation observed.",5,Customer App,2026-08-27
+REV-1142,CHN-001,Sanitation in the washroom was sub-par today. Coffee was good though.,3,Swiggy Dineout,2026-08-28
+REV-1143,DEL-002,Amazing cold brew and fantastic ambiance in Indiranagar! The staff is very polite and fast.,5,Swiggy Dineout,2026-08-12
+REV-1144,CHN-001,"Prompt service, clean counter, hygienic preparation observed.",5,Swiggy Dineout,2026-07-22
+REV-1145,BLR-002,They ran out of Barista milk and syrup on a Saturday afternoon! How can a coffee shop not have stock?,1,Customer App,2026-08-19
+REV-1146,DEL-001,"Bandra branch has great music and vibe, but seating is crowded during peak Sunday evenings.",4,Google Reviews,2026-08-15
+REV-1147,DEL-002,Sanitation in the washroom was sub-par today. Coffee was good though.,3,Zomato,2026-08-02
+REV-1148,CHN-001,"Prompt service, clean counter, hygienic preparation observed.",5,Customer App,2026-08-17
+REV-1149,HYD-001,Amazing cold brew and fantastic ambiance in Indiranagar! The staff is very polite and fast.,5,Google Reviews,2026-08-19
+REV-1150,MUM-002,"Bandra branch has great music and vibe, but seating is crowded during peak Sunday evenings.",4,Zomato,2026-08-08
+REV-1151,BLR-002,Extremely disappointed. Outlet 17 opened 45 minutes late and cold brew was completely out of stock!,1,Swiggy Dineout,2026-07-26
+REV-1152,CHN-001,"Prompt service, clean counter, hygienic preparation observed.",5,Zomato,2026-07-23
+REV-1153,DEL-002,Sanitation in the washroom was sub-par today. Coffee was good though.,3,Zomato,2026-08-16
+REV-1154,MUM-002,Best truffle panini in Connaught Place. Fast service and clean tables.,5,Google Reviews,2026-08-23
+REV-1155,BLR-002,My favorite cafe in Bangalore. High quality coffee and perfect croissants.,5,Zomato,2026-08-07
+REV-1156,BLR-017,They ran out of Barista milk and syrup on a Saturday afternoon! How can a coffee shop not have stock?,1,Google Reviews,2026-07-30
+REV-1157,MUM-001,"Cashier applied manual discount without asking, but waiting time was almost 25 minutes. Needs more staff.",2,Swiggy Dineout,2026-07-20
+REV-1158,CHN-001,"Prompt service, clean counter, hygienic preparation observed.",5,Swiggy Dineout,2026-09-02
+REV-1159,BLR-017,My favorite cafe in Bangalore. High quality coffee and perfect croissants.,5,Customer App,2026-08-31
+REV-1160,BLR-002,My favorite cafe in Bangalore. High quality coffee and perfect croissants.,5,Swiggy Dineout,2026-07-20
+REV-1161,CHN-001,"Prompt service, clean counter, hygienic preparation observed.",5,Customer App,2026-08-11
+REV-1162,CHN-001,"Bandra branch has great music and vibe, but seating is crowded during peak Sunday evenings.",4,Google Reviews,2026-08-01
+REV-1163,HYD-001,Super quick takeaway at Hitec City. Great UPI scan and go experience.,5,Zomato,2026-08-08
+REV-1164,BLR-017,Best truffle panini in Connaught Place. Fast service and clean tables.,5,Google Reviews,2026-08-21
+REV-1165,DEL-002,Extremely disappointed. Outlet 17 opened 45 minutes late and cold brew was completely out of stock!,1,Google Reviews,2026-07-21
+REV-1166,MUM-001,"Bandra branch has great music and vibe, but seating is crowded during peak Sunday evenings.",4,Swiggy Dineout,2026-07-31
+REV-1167,CHN-001,"Prompt service, clean counter, hygienic preparation observed.",5,Zomato,2026-08-04
+REV-1168,DEL-002,Super quick takeaway at Hitec City. Great UPI scan and go experience.,5,Customer App,2026-08-26
+REV-1169,BLR-002,Sanitation in the washroom was sub-par today. Coffee was good though.,3,Swiggy Dineout,2026-08-03
+REV-1170,MUM-001,"Bandra branch has great music and vibe, but seating is crowded during peak Sunday evenings.",4,Swiggy Dineout,2026-07-25
+REV-1171,CHN-001,My favorite cafe in Bangalore. High quality coffee and perfect croissants.,5,Zomato,2026-08-27
+REV-1172,MUM-001,Amazing cold brew and fantastic ambiance in Indiranagar! The staff is very polite and fast.,5,Swiggy Dineout,2026-07-28
+REV-1173,BLR-017,"Cashier applied manual discount without asking, but waiting time was almost 25 minutes. Needs more staff.",2,Customer App,2026-08-16
+REV-1174,CHN-001,Extremely disappointed. Outlet 17 opened 45 minutes late and cold brew was completely out of stock!,1,Swiggy Dineout,2026-08-15
+REV-1175,MUM-001,"Bandra branch has great music and vibe, but seating is crowded during peak Sunday evenings.",4,Zomato,2026-08-04
+REV-1176,BLR-017,"Cashier applied manual discount without asking, but waiting time was almost 25 minutes. Needs more staff.",2,Google Reviews,2026-08-22
+REV-1177,DEL-002,Sanitation in the washroom was sub-par today. Coffee was good though.,3,Swiggy Dineout,2026-07-22
+REV-1178,DEL-002,They ran out of Barista milk and syrup on a Saturday afternoon! How can a coffee shop not have stock?,1,Swiggy Dineout,2026-08-07
+REV-1179,BLR-017,Extremely disappointed. Outlet 17 opened 45 minutes late and cold brew was completely out of stock!,1,Zomato,2026-08-13
+REV-1180,CHN-001,"Prompt service, clean counter, hygienic preparation observed.",5,Swiggy Dineout,2026-07-21
+REV-1181,HYD-001,Super quick takeaway at Hitec City. Great UPI scan and go experience.,5,Google Reviews,2026-08-25
+REV-1182,BLR-002,Best truffle panini in Connaught Place. Fast service and clean tables.,5,Swiggy Dineout,2026-08-27
+REV-1183,HYD-001,"Cashier applied manual discount without asking, but waiting time was almost 25 minutes. Needs more staff.",2,Google Reviews,2026-08-04
+REV-1184,DEL-002,"Prompt service, clean counter, hygienic preparation observed.",5,Customer App,2026-08-07
+REV-1185,DEL-001,Best truffle panini in Connaught Place. Fast service and clean tables.,5,Google Reviews,2026-08-19
+REV-1186,DEL-002,Sanitation in the washroom was sub-par today. Coffee was good though.,3,Customer App,2026-07-27
+REV-1187,BLR-017,They ran out of Barista milk and syrup on a Saturday afternoon! How can a coffee shop not have stock?,1,Google Reviews,2026-08-26
+REV-1188,CHN-001,"Prompt service, clean counter, hygienic preparation observed.",5,Customer App,2026-08-02
+REV-1189,MUM-002,"Cashier applied manual discount without asking, but waiting time was almost 25 minutes. Needs more staff.",2,Customer App,2026-08-31
+REV-1190,CHN-001,Sanitation in the washroom was sub-par today. Coffee was good though.,3,Customer App,2026-08-17
+REV-1191,CHN-001,"Prompt service, clean counter, hygienic preparation observed.",5,Swiggy Dineout,2026-08-18
+REV-1192,DEL-002,Amazing cold brew and fantastic ambiance in Indiranagar! The staff is very polite and fast.,5,Customer App,2026-09-02
+REV-1193,BLR-001,Amazing cold brew and fantastic ambiance in Indiranagar! The staff is very polite and fast.,5,Google Reviews,2026-08-05
+REV-1194,HYD-001,"Prompt service, clean counter, hygienic preparation observed.",5,Google Reviews,2026-07-21
+REV-1195,MUM-001,"Bandra branch has great music and vibe, but seating is crowded during peak Sunday evenings.",4,Customer App,2026-07-26
+REV-1196,DEL-001,Best truffle panini in Connaught Place. Fast service and clean tables.,5,Swiggy Dineout,2026-08-15
+REV-1197,DEL-002,Sanitation in the washroom was sub-par today. Coffee was good though.,3,Swiggy Dineout,2026-07-24
+REV-1198,BLR-017,They ran out of Barista milk and syrup on a Saturday afternoon! How can a coffee shop not have stock?,1,Google Reviews,2026-09-01
+REV-1199,BLR-002,My favorite cafe in Bangalore. High quality coffee and perfect croissants.,5,Swiggy Dineout,2026-08-05
+REV-1200,CHN-001,"Prompt service, clean counter, hygienic preparation observed.",5,Zomato,2026-08-12
+REV-1201,CHN-001,"Prompt service, clean counter, hygienic preparation observed.",5,Swiggy Dineout,2026-07-21
+REV-1202,DEL-001,"Cashier applied manual discount without asking, but waiting time was almost 25 minutes. Needs more staff.",2,Google Reviews,2026-08-30
+REV-1203,DEL-001,Best truffle panini in Connaught Place. Fast service and clean tables.,5,Zomato,2026-08-20
+REV-1204,DEL-001,Best truffle panini in Connaught Place. Fast service and clean tables.,5,Swiggy Dineout,2026-07-31
+REV-1205,BLR-017,They ran out of Barista milk and syrup on a Saturday afternoon! How can a coffee shop not have stock?,1,Zomato,2026-08-10
+REV-1206,HYD-001,Super quick takeaway at Hitec City. Great UPI scan and go experience.,5,Google Reviews,2026-07-28
+REV-1207,BLR-001,Best truffle panini in Connaught Place. Fast service and clean tables.,5,Zomato,2026-08-23
+REV-1208,DEL-001,Best truffle panini in Connaught Place. Fast service and clean tables.,5,Zomato,2026-08-13
+REV-1209,CHN-001,"Cashier applied manual discount without asking, but waiting time was almost 25 minutes. Needs more staff.",2,Google Reviews,2026-08-29
+REV-1210,DEL-002,Sanitation in the washroom was sub-par today. Coffee was good though.,3,Swiggy Dineout,2026-08-25
+REV-1211,DEL-002,"Bandra branch has great music and vibe, but seating is crowded during peak Sunday evenings.",4,Google Reviews,2026-08-31
+REV-1212,DEL-002,Sanitation in the washroom was sub-par today. Coffee was good though.,3,Swiggy Dineout,2026-08-03
+REV-1213,BLR-001,Amazing cold brew and fantastic ambiance in Indiranagar! The staff is very polite and fast.,5,Google Reviews,2026-07-29
+REV-1214,HYD-001,Super quick takeaway at Hitec City. Great UPI scan and go experience.,5,Swiggy Dineout,2026-07-25
+REV-1215,CHN-001,"Prompt service, clean counter, hygienic preparation observed.",5,Swiggy Dineout,2026-08-30
+REV-1216,BLR-017,They ran out of Barista milk and syrup on a Saturday afternoon! How can a coffee shop not have stock?,1,Customer App,2026-08-18
+REV-1217,DEL-001,Best truffle panini in Connaught Place. Fast service and clean tables.,5,Customer App,2026-07-23
+REV-1218,MUM-001,"Bandra branch has great music and vibe, but seating is crowded during peak Sunday evenings.",4,Zomato,2026-07-23
+REV-1219,MUM-001,"Bandra branch has great music and vibe, but seating is crowded during peak Sunday evenings.",4,Swiggy Dineout,2026-09-01
+REV-1220,MUM-001,"Cashier applied manual discount without asking, but waiting time was almost 25 minutes. Needs more staff.",2,Swiggy Dineout,2026-08-14
+REV-1221,DEL-002,They ran out of Barista milk and syrup on a Saturday afternoon! How can a coffee shop not have stock?,1,Zomato,2026-08-03
+REV-1222,BLR-002,My favorite cafe in Bangalore. High quality coffee and perfect croissants.,5,Zomato,2026-08-01
+REV-1223,MUM-001,"Bandra branch has great music and vibe, but seating is crowded during peak Sunday evenings.",4,Customer App,2026-07-25
+REV-1224,HYD-001,Super quick takeaway at Hitec City. Great UPI scan and go experience.,5,Zomato,2026-07-27
+REV-1225,HYD-001,Super quick takeaway at Hitec City. Great UPI scan and go experience.,5,Swiggy Dineout,2026-08-18
+REV-1226,HYD-001,Super quick takeaway at Hitec City. Great UPI scan and go experience.,5,Customer App,2026-07-28
+REV-1227,MUM-001,Sanitation in the washroom was sub-par today. Coffee was good though.,3,Customer App,2026-08-23
+REV-1228,DEL-001,Best truffle panini in Connaught Place. Fast service and clean tables.,5,Customer App,2026-08-20
+REV-1229,HYD-001,"Cashier applied manual discount without asking, but waiting time was almost 25 minutes. Needs more staff.",2,Swiggy Dineout,2026-08-28
+REV-1230,MUM-002,"Cashier applied manual discount without asking, but waiting time was almost 25 minutes. Needs more staff.",2,Swiggy Dineout,2026-08-21
+REV-1231,DEL-001,Best truffle panini in Connaught Place. Fast service and clean tables.,5,Zomato,2026-08-17
+REV-1232,MUM-002,Super quick takeaway at Hitec City. Great UPI scan and go experience.,5,Google Reviews,2026-08-04
+REV-1233,HYD-001,Super quick takeaway at Hitec City. Great UPI scan and go experience.,5,Customer App,2026-08-07
+REV-1234,MUM-002,Amazing cold brew and fantastic ambiance in Indiranagar! The staff is very polite and fast.,5,Google Reviews,2026-08-19
+REV-1235,DEL-002,Sanitation in the washroom was sub-par today. Coffee was good though.,3,Swiggy Dineout,2026-08-27
+REV-1236,HYD-001,Super quick takeaway at Hitec City. Great UPI scan and go experience.,5,Google Reviews,2026-07-24
+REV-1237,HYD-001,Best truffle panini in Connaught Place. Fast service and clean tables.,5,Zomato,2026-07-23
+REV-1238,BLR-001,"Prompt service, clean counter, hygienic preparation observed.",5,Google Reviews,2026-08-25
+REV-1239,BLR-001,"Cashier applied manual discount without asking, but waiting time was almost 25 minutes. Needs more staff.",2,Swiggy Dineout,2026-08-14
+REV-1240,DEL-001,Best truffle panini in Connaught Place. Fast service and clean tables.,5,Swiggy Dineout,2026-08-05
+REV-1241,DEL-001,Best truffle panini in Connaught Place. Fast service and clean tables.,5,Swiggy Dineout,2026-08-30
+REV-1242,DEL-002,Sanitation in the washroom was sub-par today. Coffee was good though.,3,Zomato,2026-08-01
+REV-1243,BLR-017,Extremely disappointed. Outlet 17 opened 45 minutes late and cold brew was completely out of stock!,1,Google Reviews,2026-08-29
+REV-1244,BLR-001,Amazing cold brew and fantastic ambiance in Indiranagar! The staff is very polite and fast.,5,Google Reviews,2026-08-25
+REV-1245,BLR-002,My favorite cafe in Bangalore. High quality coffee and perfect croissants.,5,Zomato,2026-08-08
+REV-1246,DEL-001,"Prompt service, clean counter, hygienic preparation observed.",5,Google Reviews,2026-07-25
+REV-1247,CHN-001,"Prompt service, clean counter, hygienic preparation observed.",5,Customer App,2026-08-09
+REV-1248,BLR-002,My favorite cafe in Bangalore. High quality coffee and perfect croissants.,5,Swiggy Dineout,2026-08-21
+REV-1249,HYD-001,"Bandra branch has great music and vibe, but seating is crowded during peak Sunday evenings.",4,Swiggy Dineout,2026-08-14
+REV-1250,DEL-002,Sanitation in the washroom was sub-par today. Coffee was good though.,3,Swiggy Dineout,2026-08-19
+REV-1251,DEL-002,Super quick takeaway at Hitec City. Great UPI scan and go experience.,5,Customer App,2026-08-21
+REV-1252,HYD-001,Super quick takeaway at Hitec City. Great UPI scan and go experience.,5,Customer App,2026-08-26
+REV-1253,DEL-002,Sanitation in the washroom was sub-par today. Coffee was good though.,3,Customer App,2026-08-24
+REV-1254,BLR-001,Extremely disappointed. Outlet 17 opened 45 minutes late and cold brew was completely out of stock!,1,Zomato,2026-08-12
+REV-1255,DEL-001,Sanitation in the washroom was sub-par today. Coffee was good though.,3,Swiggy Dineout,2026-07-21
+REV-1256,BLR-017,They ran out of Barista milk and syrup on a Saturday afternoon! How can a coffee shop not have stock?,1,Zomato,2026-09-02
+REV-1257,MUM-001,"Bandra branch has great music and vibe, but seating is crowded during peak Sunday evenings.",4,Zomato,2026-08-25
+REV-1258,BLR-017,Extremely disappointed. Outlet 17 opened 45 minutes late and cold brew was completely out of stock!,1,Swiggy Dineout,2026-07-21
+REV-1259,MUM-002,Best truffle panini in Connaught Place. Fast service and clean tables.,5,Zomato,2026-08-28
+REV-1260,BLR-017,They ran out of Barista milk and syrup on a Saturday afternoon! How can a coffee shop not have stock?,1,Zomato,2026-07-24
+REV-1261,BLR-017,"Cashier applied manual discount without asking, but waiting time was almost 25 minutes. Needs more staff.",2,Zomato,2026-07-25
+REV-1262,BLR-017,They ran out of Barista milk and syrup on a Saturday afternoon! How can a coffee shop not have stock?,1,Swiggy Dineout,2026-08-20
+REV-1263,HYD-001,"Cashier applied manual discount without asking, but waiting time was almost 25 minutes. Needs more staff.",2,Zomato,2026-08-24
+REV-1264,CHN-001,"Prompt service, clean counter, hygienic preparation observed.",5,Swiggy Dineout,2026-07-30
+REV-1265,BLR-017,"Cashier applied manual discount without asking, but waiting time was almost 25 minutes. Needs more staff.",2,Swiggy Dineout,2026-07-28
+REV-1266,BLR-001,Amazing cold brew and fantastic ambiance in Indiranagar! The staff is very polite and fast.,5,Swiggy Dineout,2026-08-07
+REV-1267,BLR-001,My favorite cafe in Bangalore. High quality coffee and perfect croissants.,5,Zomato,2026-08-03
+REV-1268,HYD-001,They ran out of Barista milk and syrup on a Saturday afternoon! How can a coffee shop not have stock?,1,Swiggy Dineout,2026-07-25
+REV-1269,BLR-017,They ran out of Barista milk and syrup on a Saturday afternoon! How can a coffee shop not have stock?,1,Customer App,2026-08-19
+REV-1270,BLR-017,"Cashier applied manual discount without asking, but waiting time was almost 25 minutes. Needs more staff.",2,Zomato,2026-08-12
+REV-1271,CHN-001,My favorite cafe in Bangalore. High quality coffee and perfect croissants.,5,Google Reviews,2026-07-29
+REV-1272,DEL-001,Best truffle panini in Connaught Place. Fast service and clean tables.,5,Swiggy Dineout,2026-08-15
+REV-1273,CHN-001,Best truffle panini in Connaught Place. Fast service and clean tables.,5,Swiggy Dineout,2026-08-02
+REV-1274,CHN-001,"Prompt service, clean counter, hygienic preparation observed.",5,Swiggy Dineout,2026-08-29
+REV-1275,BLR-017,Extremely disappointed. Outlet 17 opened 45 minutes late and cold brew was completely out of stock!,1,Swiggy Dineout,2026-08-10
+REV-1276,BLR-001,"Prompt service, clean counter, hygienic preparation observed.",5,Swiggy Dineout,2026-09-03
+REV-1277,BLR-002,My favorite cafe in Bangalore. High quality coffee and perfect croissants.,5,Customer App,2026-08-10
+REV-1278,CHN-001,Best truffle panini in Connaught Place. Fast service and clean tables.,5,Google Reviews,2026-08-13
+REV-1279,DEL-001,Super quick takeaway at Hitec City. Great UPI scan and go experience.,5,Zomato,2026-08-02
+REV-1280,MUM-001,They ran out of Barista milk and syrup on a Saturday afternoon! How can a coffee shop not have stock?,1,Google Reviews,2026-08-26
+REV-1281,MUM-001,"Bandra branch has great music and vibe, but seating is crowded during peak Sunday evenings.",4,Google Reviews,2026-08-24
+REV-1282,BLR-001,Amazing cold brew and fantastic ambiance in Indiranagar! The staff is very polite and fast.,5,Google Reviews,2026-08-05
+REV-1283,DEL-002,Sanitation in the washroom was sub-par today. Coffee was good though.,3,Zomato,2026-08-08
+REV-1284,BLR-017,Extremely disappointed. Outlet 17 opened 45 minutes late and cold brew was completely out of stock!,1,Swiggy Dineout,2026-08-25
+REV-1285,MUM-001,Super quick takeaway at Hitec City. Great UPI scan and go experience.,5,Google Reviews,2026-08-26
+REV-1286,BLR-002,My favorite cafe in Bangalore. High quality coffee and perfect croissants.,5,Swiggy Dineout,2026-07-29
+REV-1287,HYD-001,Super quick takeaway at Hitec City. Great UPI scan and go experience.,5,Google Reviews,2026-08-07
+REV-1288,DEL-002,Sanitation in the washroom was sub-par today. Coffee was good though.,3,Google Reviews,2026-08-10
+REV-1289,DEL-001,Best truffle panini in Connaught Place. Fast service and clean tables.,5,Google Reviews,2026-07-24
+REV-1290,DEL-001,Best truffle panini in Connaught Place. Fast service and clean tables.,5,Google Reviews,2026-08-08
+REV-1291,BLR-017,"Cashier applied manual discount without asking, but waiting time was almost 25 minutes. Needs more staff.",2,Google Reviews,2026-08-31
+REV-1292,BLR-001,My favorite cafe in Bangalore. High quality coffee and perfect croissants.,5,Customer App,2026-08-12
+REV-1293,CHN-001,"Prompt service, clean counter, hygienic preparation observed.",5,Swiggy Dineout,2026-08-09
+REV-1294,DEL-002,Super quick takeaway at Hitec City. Great UPI scan and go experience.,5,Customer App,2026-08-04
+REV-1295,DEL-001,"Cashier applied manual discount without asking, but waiting time was almost 25 minutes. Needs more staff.",2,Swiggy Dineout,2026-07-27
+REV-1296,BLR-017,They ran out of Barista milk and syrup on a Saturday afternoon! How can a coffee shop not have stock?,1,Google Reviews,2026-07-29
+REV-1297,DEL-002,Sanitation in the washroom was sub-par today. Coffee was good though.,3,Google Reviews,2026-08-15
+REV-1298,BLR-017,"Cashier applied manual discount without asking, but waiting time was almost 25 minutes. Needs more staff.",2,Google Reviews,2026-07-21
+REV-1299,BLR-017,Sanitation in the washroom was sub-par today. Coffee was good though.,3,Customer App,2026-08-30
+REV-1300,DEL-002,Sanitation in the washroom was sub-par today. Coffee was good though.,3,Zomato,2026-07-30
+REV-1301,BLR-002,"Cashier applied manual discount without asking, but waiting time was almost 25 minutes. Needs more staff.",2,Google Reviews,2026-08-14
+REV-1302,BLR-017,They ran out of Barista milk and syrup on a Saturday afternoon! How can a coffee shop not have stock?,1,Zomato,2026-07-29
+REV-1303,BLR-002,My favorite cafe in Bangalore. High quality coffee and perfect croissants.,5,Customer App,2026-07-30
+REV-1304,DEL-002,Sanitation in the washroom was sub-par today. Coffee was good though.,3,Google Reviews,2026-08-22
+REV-1305,MUM-001,"Bandra branch has great music and vibe, but seating is crowded during peak Sunday evenings.",4,Google Reviews,2026-07-20
+REV-1306,BLR-001,Amazing cold brew and fantastic ambiance in Indiranagar! The staff is very polite and fast.,5,Zomato,2026-08-31
+REV-1307,DEL-001,Best truffle panini in Connaught Place. Fast service and clean tables.,5,Zomato,2026-08-24
+REV-1308,BLR-001,Super quick takeaway at Hitec City. Great UPI scan and go experience.,5,Zomato,2026-07-29
+REV-1309,BLR-001,Amazing cold brew and fantastic ambiance in Indiranagar! The staff is very polite and fast.,5,Customer App,2026-08-06
+REV-1310,DEL-001,They ran out of Barista milk and syrup on a Saturday afternoon! How can a coffee shop not have stock?,1,Zomato,2026-08-05
+REV-1311,MUM-001,"Bandra branch has great music and vibe, but seating is crowded during peak Sunday evenings.",4,Google Reviews,2026-07-29
+REV-1312,CHN-001,"Prompt service, clean counter, hygienic preparation observed.",5,Swiggy Dineout,2026-07-31
+REV-1313,DEL-001,Amazing cold brew and fantastic ambiance in Indiranagar! The staff is very polite and fast.,5,Google Reviews,2026-09-03
+REV-1314,BLR-017,Extremely disappointed. Outlet 17 opened 45 minutes late and cold brew was completely out of stock!,1,Customer App,2026-07-22
+REV-1315,BLR-017,"Cashier applied manual discount without asking, but waiting time was almost 25 minutes. Needs more staff.",2,Zomato,2026-08-05
+REV-1316,DEL-002,Amazing cold brew and fantastic ambiance in Indiranagar! The staff is very polite and fast.,5,Swiggy Dineout,2026-08-19
+REV-1317,HYD-001,"Cashier applied manual discount without asking, but waiting time was almost 25 minutes. Needs more staff.",2,Customer App,2026-09-02
+REV-1318,CHN-001,"Prompt service, clean counter, hygienic preparation observed.",5,Google Reviews,2026-08-05
+REV-1319,CHN-001,My favorite cafe in Bangalore. High quality coffee and perfect croissants.,5,Swiggy Dineout,2026-08-16
+REV-1320,DEL-002,Sanitation in the washroom was sub-par today. Coffee was good though.,3,Google Reviews,2026-08-13
+REV-1321,DEL-001,Best truffle panini in Connaught Place. Fast service and clean tables.,5,Zomato,2026-08-03
+REV-1322,BLR-017,They ran out of Barista milk and syrup on a Saturday afternoon! How can a coffee shop not have stock?,1,Customer App,2026-08-13
+REV-1323,DEL-002,Best truffle panini in Connaught Place. Fast service and clean tables.,5,Zomato,2026-07-24
+REV-1324,DEL-002,"Bandra branch has great music and vibe, but seating is crowded during peak Sunday evenings.",4,Google Reviews,2026-08-15
+REV-1325,BLR-002,Extremely disappointed. Outlet 17 opened 45 minutes late and cold brew was completely out of stock!,1,Google Reviews,2026-07-25
+REV-1326,BLR-002,My favorite cafe in Bangalore. High quality coffee and perfect croissants.,5,Google Reviews,2026-08-06
+REV-1327,MUM-002,Super quick takeaway at Hitec City. Great UPI scan and go experience.,5,Customer App,2026-07-25
+REV-1328,CHN-001,"Prompt service, clean counter, hygienic preparation observed.",5,Google Reviews,2026-08-02
+REV-1329,BLR-017,Best truffle panini in Connaught Place. Fast service and clean tables.,5,Swiggy Dineout,2026-08-22
+REV-1330,DEL-001,"Prompt service, clean counter, hygienic preparation observed.",5,Zomato,2026-09-03
+REV-1331,CHN-001,"Prompt service, clean counter, hygienic preparation observed.",5,Google Reviews,2026-08-05
+REV-1332,BLR-001,Super quick takeaway at Hitec City. Great UPI scan and go experience.,5,Zomato,2026-08-08
+REV-1333,HYD-001,Super quick takeaway at Hitec City. Great UPI scan and go experience.,5,Swiggy Dineout,2026-07-25
+REV-1334,DEL-002,Sanitation in the washroom was sub-par today. Coffee was good though.,3,Google Reviews,2026-08-25
+REV-1335,DEL-001,Best truffle panini in Connaught Place. Fast service and clean tables.,5,Customer App,2026-08-20
+REV-1336,BLR-001,Amazing cold brew and fantastic ambiance in Indiranagar! The staff is very polite and fast.,5,Customer App,2026-08-29
+REV-1337,DEL-002,They ran out of Barista milk and syrup on a Saturday afternoon! How can a coffee shop not have stock?,1,Swiggy Dineout,2026-08-13
+REV-1338,BLR-017,Extremely disappointed. Outlet 17 opened 45 minutes late and cold brew was completely out of stock!,1,Zomato,2026-07-30
+REV-1339,BLR-002,They ran out of Barista milk and syrup on a Saturday afternoon! How can a coffee shop not have stock?,1,Google Reviews,2026-07-27
+REV-1340,BLR-017,They ran out of Barista milk and syrup on a Saturday afternoon! How can a coffee shop not have stock?,1,Swiggy Dineout,2026-08-02
+REV-1341,DEL-002,Amazing cold brew and fantastic ambiance in Indiranagar! The staff is very polite and fast.,5,Swiggy Dineout,2026-08-16
+REV-1342,MUM-002,They ran out of Barista milk and syrup on a Saturday afternoon! How can a coffee shop not have stock?,1,Customer App,2026-08-20
+REV-1343,DEL-002,Sanitation in the washroom was sub-par today. Coffee was good though.,3,Customer App,2026-08-06
+REV-1344,DEL-001,Best truffle panini in Connaught Place. Fast service and clean tables.,5,Swiggy Dineout,2026-08-06
+REV-1345,DEL-001,"Prompt service, clean counter, hygienic preparation observed.",5,Customer App,2026-08-10
+REV-1346,BLR-017,Extremely disappointed. Outlet 17 opened 45 minutes late and cold brew was completely out of stock!,1,Zomato,2026-07-25
+REV-1347,DEL-001,Super quick takeaway at Hitec City. Great UPI scan and go experience.,5,Swiggy Dineout,2026-08-27
+REV-1348,CHN-001,Extremely disappointed. Outlet 17 opened 45 minutes late and cold brew was completely out of stock!,1,Customer App,2026-08-06
+REV-1349,HYD-001,They ran out of Barista milk and syrup on a Saturday afternoon! How can a coffee shop not have stock?,1,Google Reviews,2026-09-01

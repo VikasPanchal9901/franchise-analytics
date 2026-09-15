@@ -1,0 +1,53 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body { height: 100%; }
+body { font-feature-settings: "tnum" 1; }
+
+::selection { background: #CFE4DF; }
+
+.num {
+  font-variant-numeric: tabular-nums;
+}
+
+/* Ledger-style hairline panel used across every dashboard */
+.panel {
+  @apply bg-white border border-line;
+}
+.panel-header {
+  @apply flex items-center justify-between px-5 py-3 border-b border-line;
+}
+.panel-title {
+  @apply font-sans text-[13px] font-semibold tracking-normal text-ink2;
+}
+.panel-body {
+  @apply p-5;
+}
+
+.kpi-value {
+  @apply font-serif text-[28px] leading-none text-ink2;
+}
+.kpi-label {
+  @apply font-sans text-[12.5px] text-muted mt-1.5;
+}
+
+.pill {
+  @apply inline-flex items-center gap-1.5 px-2 py-0.5 rounded-sm text-[11.5px] font-medium border;
+}
+
+.field {
+  @apply block w-full bg-white border border-line rounded-sm px-2.5 py-2 text-[13px] text-ink2 outline-none;
+}
+.field:focus { @apply border-teal-600 ring-1 ring-teal-100; }
+
+a { color: inherit; }
+
+/* thin scrollbar for the sidebar and tables */
+.thin-scroll::-webkit-scrollbar { width: 6px; height: 6px; }
+.thin-scroll::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.15); border-radius: 4px; }
+
+.data-table { @apply w-full text-[13px]; }
+.data-table th { @apply text-left font-medium text-muted border-b border-line py-2 px-3 whitespace-nowrap; }
+.data-table td { @apply py-2.5 px-3 border-b border-line/70 text-ink2 whitespace-nowrap; }
+.data-table tr:last-child td { border-bottom: none; }

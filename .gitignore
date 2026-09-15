@@ -1,0 +1,30 @@
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Build files
+dist/
+build/
+.next/
+out/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Local SQLite database
+*.db
+*.db-shm
+*.db-wal
