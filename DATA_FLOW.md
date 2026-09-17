@@ -1,4 +1,6 @@
-Data Flow — FranchiseOps
+# FranchiseOps — Franchise Analytics & Management System
+
+# Data Flow — FranchiseOps
 1. Data Sources
 Sales transactions (outlet, product, quantity, amount, time)
 Customer reviews and ratings
